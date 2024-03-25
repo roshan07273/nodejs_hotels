@@ -1,0 +1,21 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "This is Node JS learning tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshan Raturi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^5.0.0-beta.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.3",
+    "mongosh": "^2.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
